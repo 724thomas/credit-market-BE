@@ -182,6 +182,9 @@ This project is licensed under the MIT License.
 "저희 팀원들에게 프로젝트에 대한 엄청난 노력과 열정, 그리고 헌신에 감사드립니다."<br/>
 
 
+<br/><br/>
+
+
 ## ::star: 강사님의 피드백! (Feedback)
 ![image](https://user-images.githubusercontent.com/113500771/223981571-73ea1eb4-617b-4049-b416-fde20f33d1d2.png)
 ![image](https://user-images.githubusercontent.com/113500771/223981842-9b0e1fbe-9863-4349-9aeb-07f376abc33b.png)
