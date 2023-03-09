@@ -86,7 +86,7 @@ This project is licensed under the MIT License.
 <br/><br/>
 
 
-## :sunglasses: Member Coontact Information
+## :sunglasses: Member Contact Information
 
 <table border>
   <tbody>
@@ -166,7 +166,7 @@ This project is licensed under the MIT License.
 
 
 ## :relaxed: 프로젝트 회고(Reflection Report) 
-1. CORS: 이 부분이 왜 문제가 되는지 처음에 이해를 못했었습니다. Security 설저인데 왜 disable시키지? CORS가 "다른 출처"의 요청을 막는 기능인데, 무조건 막아야지 왜 disable 시키지? 라고 생각한 이유가 프론트의 파일들과 백의 파일들을 합치게 될거라는 너무 순진한 생각을 했었고, 프론트의 작업 방식에 대해서도 배울 수 있었던 기회였습니다.
+1. CORS: 이 부분이 왜 문제가 되는지 처음에 이해를 못했었습니다. Security 설저인데 왜 disable시키지? CORS가 "다른 출처"의 요청을 막는 기능인데, 무조건 막아야지 왜 disable 시키지? 라고 생각한 이유가 프론트의 파일들과 백의 파일들을 합치게 될거라는 너무 순진한 생각을 했었고, 이번 기회에 프론트의 작업 방식에 대해서도 배울 수 있었던 기회였습니다.
 2. JWT: 이번 프로젝트에서는 Access Token을 사용했고, Refresh Token도 사용할 수 있단느걸 너무 늦게 알게 되었던게 아쉬웠습니다.
 3. 의사소통: 프로젝트 기간동안 한번도 팀원들의 얼굴을 못봤는데, 의사소통이 얼마나 중요한지 알 수 있었습니다. 팀장이 갖고 있는 커뮤니케이션 문제를 경험할 수 있었던 것 같고, 재택근무가 마냥 좋은 것만은 아니고, 앞으로는 사소한 것까지 모두와 공유를 하는게 좋을 것 같다고 생각이 듭니다.
 4. 권한: 레포의 owner 권한을 모두와 공유를 하다보니, 레포를 삭제당하는(?) 경험을 했었습니다. 슈퍼유저do(?) 권한은 한명이면 충분하다고 생각합니다. 또한, 서버도 증발하는 것을 겪으며, 더더욱 권한의 중요성을 느꼈던 것 같습니다.
