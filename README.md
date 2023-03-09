@@ -185,7 +185,7 @@ This project is licensed under the MIT License.
 <br/><br/>
 
 
-## ::star: 강사님의 피드백! (Feedback)
+## :star: 강사님의 피드백! (Feedback)
 ![image](https://user-images.githubusercontent.com/113500771/223981571-73ea1eb4-617b-4049-b416-fde20f33d1d2.png)
 ![image](https://user-images.githubusercontent.com/113500771/223981842-9b0e1fbe-9863-4349-9aeb-07f376abc33b.png)
 
