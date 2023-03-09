@@ -181,3 +181,8 @@ This project is licensed under the MIT License.
 "프론트엔드분들의 화려한 UI 디자인과 원활한 상호협력에 대하여 감사드립니다."<br/>
 "저희 팀원들에게 프로젝트에 대한 엄청난 노력과 열정, 그리고 헌신에 감사드립니다."<br/>
 
+
+## ::star: 강사님의 피드백! (Feedback)
+![image](https://user-images.githubusercontent.com/113500771/223981571-73ea1eb4-617b-4049-b416-fde20f33d1d2.png)
+![image](https://user-images.githubusercontent.com/113500771/223981842-9b0e1fbe-9863-4349-9aeb-07f376abc33b.png)
+
