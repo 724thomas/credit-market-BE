@@ -2,8 +2,8 @@
 
 # :moneybag: [Credit Market](https://credit-market.netlify.app/)  (23.02.09.~23.02.25.)
 
-<img src="https://user-images.githubusercontent.com/113500771/222965470-75370aa6-bad0-46ce-8619-27ca764d9568.gif" width="300" height="150" /><img src="https://user-images.githubusercontent.com/113500771/222965479-bc982962-fcbd-4bea-9991-ac0d20ca7b42.gif" width="300" height="150" />
-<img src="https://user-images.githubusercontent.com/113500771/222965472-792cf56e-e1ff-45b8-92f2-5a51f2928dcc.gif" width="300" height="150" />
+<img src="https://user-images.githubusercontent.com/113500771/222965470-75370aa6-bad0-46ce-8619-27ca764d9568.gif" width="270" height="150" /><img src="https://user-images.githubusercontent.com/113500771/222965479-bc982962-fcbd-4bea-9991-ac0d20ca7b42.gif" width="270" height="150" />
+<img src="https://user-images.githubusercontent.com/113500771/222965472-792cf56e-e1ff-45b8-92f2-5a51f2928dcc.gif" width="270" height="150" />
 
 
 - :page_with_curl: Check out our project documents at [<img src="https://img.shields.io/badge/Notion-000000?style=flat-round&logo=Notion&logoColor=white"/>](https://www.notion.so/Mini-Project-b53fa0f445ce4afbacebffd01a813965?pvs=4)
